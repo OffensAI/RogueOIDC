@@ -1,0 +1,6 @@
+cryptography==44.0.0
+fastapi==0.115.6
+pydantic==2.10.5
+pydantic_settings==2.7.1
+PyJWT==2.10.1
+uvicorn==0.34.0
